@@ -21,6 +21,7 @@
 	<scm>
 		<developerConnection>illarion.kovalchuk</developerConnection>
 		<url>https://tablej.googlecode.com/svn/trunk/tablej</url>
+		<connection>https://tablej.googlecode.com/svn/trunk/tablej</connection>
 	</scm>
 
 
