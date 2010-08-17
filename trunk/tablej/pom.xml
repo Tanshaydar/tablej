@@ -3,9 +3,16 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.google.code.tablej</groupId>
 	<artifactId>tablej</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.1.0-SNAPSHOT</version>
 	<name>tablej</name>
 	<description>Table&lt;T&gt; - simple collection, allowing multiple custom fast searchable indexes.</description>
+	<licenses>
+		<license>
+			<name>The MIT License</name>
+			<url>http://www.opensource.org/licenses/mit-license.php</url>
+			<distribution>repo</distribution>
+		</license>
+	</licenses>
 	<url>http://code.google.com/p/tablej/</url>
 	<issueManagement>
 		<system>google code issues</system>
@@ -15,6 +22,10 @@
 		<developerConnection>illarion.kovalchuk</developerConnection>
 		<url>https://tablej.googlecode.com/svn/trunk/tablej</url>
 	</scm>
+
+
+
+
 	<build>
 		<plugins>
 			<plugin>
