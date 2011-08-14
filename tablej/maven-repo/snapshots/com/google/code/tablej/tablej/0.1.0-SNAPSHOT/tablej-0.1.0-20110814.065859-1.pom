@@ -31,11 +31,11 @@
 <distributionManagement>
 	<repository>
 		<id>repo</id>
-		<url>http://tablej.googlecode.com/svn/trunk/tablej/maven-repo/raw/master/releases</url>
+		<url>http://tablej.googlecode.com/svn/trunk/maven-repo/raw/master/releases</url>
 	</repository>
 	<snapshotRepository>
 		<id>snapshot-repo</id>
-		<url>http://tablej.googlecode.com/svn/trunk/tablej/maven-repo/raw/master/snapshots</url>
+		<url>http://tablej.googlecode.com/svn/trunk/maven-repo/raw/master/snapshots</url>
 	</snapshotRepository>
 </distributionManagement>
 
